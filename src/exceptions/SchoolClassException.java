@@ -1,2 +1,4 @@
-package exceptions;public class SchoolClassException {
+package exceptions;
+
+public class SchoolClassException extends RuntimeException {
 }

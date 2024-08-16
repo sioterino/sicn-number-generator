@@ -1,2 +1,4 @@
-package exceptions;public class BooleanException {
+package exceptions;
+
+public class BooleanException extends RuntimeException {
 }

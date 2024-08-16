@@ -1,2 +1,4 @@
-package exceptions;public class GenderException {
+package exceptions;
+
+public class GenderException extends RuntimeException {
 }

@@ -1,2 +1,4 @@
-package exceptions;public class RetentionException {
+package exceptions;
+
+public class RetentionException extends RuntimeException {
 }

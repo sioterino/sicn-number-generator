@@ -1,2 +1,4 @@
-package exceptions;public class YearException {
+package exceptions;
+
+public class YearException extends RuntimeException {
 }
